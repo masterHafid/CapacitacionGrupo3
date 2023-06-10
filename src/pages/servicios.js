@@ -6,7 +6,7 @@ const servicio = ()=>{//COMPONENTE
    //Emac6
     console.log("Hola mundo")
 
-    let Login = "Login"
+    let Login = "Login Test"
 
    
     return(// Sintaxis JSX html tradicional etiquetas class"clasesCSS"
