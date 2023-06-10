@@ -1,0 +1,14 @@
+.containerCard{
+    height: 200px;
+    width: 300px;
+    border: solid black 1px;
+    border-radius: 15px;
+    padding: 5px;
+}
+.containerContentCard{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
